@@ -1,3 +1,3 @@
 # Contact Brian
 
-Brian's contacnt information
+Brian's contacnt information - email
