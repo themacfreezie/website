@@ -1,2 +1,3 @@
-# website
-Supporting personal website
+# Brian McGreal
+
+Brian McGreal's personal website
